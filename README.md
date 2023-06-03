@@ -1,5 +1,5 @@
 # ᴀʙᴏᴜᴛ ᴍᴇ
-Hi there! I'm *Mio*, I'm a innovative `Software Engineer` hardly working! I'm extremely unprofessional code-wise. 
+Hi there! I'm *Michael aka Mio*, I'm a innovative `Software Engineer` hardly working! I'm extremely unprofessional code-wise. 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918328786955698196?idleMessage=Life%20would%20be%20way%20easier,%20if%20only%20we%20had%20the%20source%20code)](https://discord.com/users/918328786955698196)
 
