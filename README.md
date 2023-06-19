@@ -1,7 +1,11 @@
-# ᴀʙᴏᴜᴛ ᴍᴇ
-Hi there! I'm *Michael*, I'm a foody `Systems Engineer` always cooking some sweet code. 
+
 
 # ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 [![My Skills](https://skillicons.dev/icons?i=java,rust,python,ts,cs,cpp,mongodb,mysql,idea,vscode)](https://skillicons.dev)
 
- # ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ᴡᴏʀᴋ [ʜᴇʀᴇ](https://github.com/MioCoding?tab=repositories)
+
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelthechef&show_icons=true&locale=en&layout=compact" alt="michaelthechef" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelthechef&show_icons=true&locale=en" alt="michaelthechef" /></p>
