@@ -1,7 +1,7 @@
 
 
 # ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
-[![My Skills](https://skillicons.dev/icons?i=java,rust,python,ts,cs,cpp,go,mongodb,mysql,redis,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,python,ts,cs,cpp,go,docker,mongodb,mysql,redis,idea,vscode)](https://skillicons.dev)
 
 
 </p>
