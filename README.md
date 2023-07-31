@@ -6,4 +6,4 @@
 
 </p>
 
-![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=MichaelTheChef&count_private=true&theme=dark#gh-dark-mode-only) 
+![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=MichaelTheChef&count_private=true&theme=highcontrast#gh-dark-mode-only) 
