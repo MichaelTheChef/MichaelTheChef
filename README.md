@@ -12,4 +12,4 @@
 
 </p>
 
-![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=MichaelTheChef&count_private=true&theme=highcontrast#gh-dark-mode-only) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelthechef&show_icons=true&theme=github_dark)
