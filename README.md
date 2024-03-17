@@ -2,4 +2,4 @@
 <h1 align="center">hii, I'm Mike a ML nerd 👋</h1> 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=michaelthechef&show_icons=true&theme=github_dark" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelthechef&theme=gotham" /></p>
