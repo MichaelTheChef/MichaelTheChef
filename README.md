@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/pfp.gif" />
+  <img src="images/logo.gif" />
 </p>
 
 <h1 align="center">
