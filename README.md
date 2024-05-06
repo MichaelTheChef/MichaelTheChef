@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="mlogo.gif" />
-</p>
-
 <h1 align="center">
   howdy, I'm Mike a ML nerd 👋
 </h1> 
