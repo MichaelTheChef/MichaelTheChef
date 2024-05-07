@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/0ff44d2e-9ea5-440d-83ed-c3b5a92590d1" />
+  <a href="https://github.com/molexai">
+    <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/df3cedfb-ddbc-4c12-b787-6b360505d9d9"/>
+  </a>
 </p>
 
 <h1 align="center">
