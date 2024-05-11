@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  howdy, I'm Mike a ML nerd 👋
+  howdy, I'm Mike a AI enthusiast 👋
 </h1> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelthechef&theme=gotham" />
