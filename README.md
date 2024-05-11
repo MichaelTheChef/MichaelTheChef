@@ -1,8 +1,5 @@
 <p align="center">
   <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/0ff44d2e-9ea5-440d-83ed-c3b5a92590d1" />
-  <a href="https://github.com/molexai">
-    <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/df3cedfb-ddbc-4c12-b787-6b360505d9d9"/>
-  </a>
 </p>
 
 <h1 align="center">
@@ -18,4 +15,17 @@
   <img src="https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Rust-212121?style=for-the-badge&logo=rust">
   <img src="https://img.shields.io/badge/C++-212121?style=for-the-badge&logo=c">
+</p>
+<h2 align="center">
+  Badges
+</h2>
+
+  
+<p align="center">
+
+  <a href="https://github.com/molexai">
+    <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/106060dd-5827-4470-9242-197c8480304b"/>
+    <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/d85905bb-7288-47a4-b030-6290cb254865"/>
+  </a>
+  
 </p>
