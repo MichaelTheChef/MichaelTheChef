@@ -25,7 +25,6 @@
 
   <a href="https://github.com/molexai">
     <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/106060dd-5827-4470-9242-197c8480304b"/>
-    <img src="https://github.com/MichaelTheChef/MichaelTheChef/assets/85833344/d85905bb-7288-47a4-b030-6290cb254865"/>
   </a>
   
 </p>
