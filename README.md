@@ -6,7 +6,7 @@
   howdy, I'm Mike an AI enthusiast 👋
 </h1> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelthechef&theme=gotham" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drkostas&theme=gotham" />
 </p>
 
 <p align="center">
