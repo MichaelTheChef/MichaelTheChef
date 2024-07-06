@@ -5,6 +5,7 @@
 <h1 align="center">
   howdy, I'm Mike an AI enthusiast 👋
 </h1> 
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drkostas&theme=gotham"/>
