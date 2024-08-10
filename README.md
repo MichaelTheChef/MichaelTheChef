@@ -11,6 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drkostas&theme=gotham"/>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=michaelthechef" alt="Mike's Profile View Counter">
 <h1></h1>
 
 <p align="center">
