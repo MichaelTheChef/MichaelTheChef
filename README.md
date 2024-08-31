@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/molexai"><img width=200 src="https://github.com/user-attachments/assets/4542ca2a-302e-427c-b345-bfb796e2f902"></a>
+  <a href="https://github.com/molexai"><img width=500 src="https://github.com/user-attachments/assets/dd168b45-35e3-455d-94be-e8215621e602"></a>
 </p>
 
 <h1 align="center">
@@ -16,4 +16,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,py,rust,c,docker,git,github,githubactions,gitlab,gradle,kubernetes,linux"/>
 </p>
+
+
 
