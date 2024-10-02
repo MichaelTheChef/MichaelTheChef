@@ -15,9 +15,7 @@
 
 <h1></h1>
 <p align="center">
-  <a href="https://github.com/MichaelTheChef/me"><img width=300 src="https://github.com/user-attachments/assets/44d57659-aec1-4d51-b58f-519c98fc46b8"></a>
   <a href="https://github.com/MichaelTheChef/me"><img width=400 src="https://github.com/user-attachments/assets/0b0e834c-62ff-4977-aa44-6d16129ef638"></a>
-  <a href="https://github.com/MichaelTheChef/me"><img width=200 src="https://github.com/user-attachments/assets/a21ffe96-4574-4654-bcb7-2f0a6f056d28"></a>
 </p>
 
 
