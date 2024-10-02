@@ -14,9 +14,4 @@
 </p>
 
 <h1></h1>
-<p align="center">
-  <a href="https://github.com/MichaelTheChef/me"><img width=400 src="https://github.com/user-attachments/assets/0b0e834c-62ff-4977-aa44-6d16129ef638"></a>
-</p>
-
-
 
