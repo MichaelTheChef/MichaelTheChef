@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/molexai"><img width=500 src="https://github.com/user-attachments/assets/dd168b45-35e3-455d-94be-e8215621e602"></a>
-</p>
-
 <h1 align="center">
   howdy, I'm Mike an AI enthusiast 👋
 </h1> 
